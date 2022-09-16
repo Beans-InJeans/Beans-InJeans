@@ -1,4 +1,4 @@
-###Hi, I'm Jenna!
+#Hi, I'm Jenna!
 
 Currently teaching myself frontend development.
 
