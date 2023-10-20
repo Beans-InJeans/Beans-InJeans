@@ -2,8 +2,7 @@
 
 **`Self-taught Frontend Developer`**
 
-- 👀 I’m interested in music, art, technology, and the outdoors
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning C
 - 📝 Resources I've used: <a href="https://www.theodinproject.com/">The Odin Project</a>, <a href="https://www.frontendmentor.io/">Frontend Mentor</a>
 
 ---
