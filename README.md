@@ -2,7 +2,7 @@
 
 **`Self-taught Frontend Developer`**
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning React, Typescript, and Tailwind
 - 📝 Resources I've used: <a href="https://www.theodinproject.com/">The Odin Project</a>, <a href="https://www.frontendmentor.io/">Frontend Mentor</a>
 
 ---
