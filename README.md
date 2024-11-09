@@ -1,6 +1,6 @@
 # 🐱‍👤 Jenna Han
 
-**`Self-taught Frontend Developer`**
+**`Interactive Arts and Technology | Computer Science`**
 
 - 🌱 I’m currently learning React, TypeScript, and Tailwind
 - 📝 Resources I've used: <a href="https://www.theodinproject.com/">The Odin Project</a>, <a href="https://www.frontendmentor.io/">Frontend Mentor</a>
