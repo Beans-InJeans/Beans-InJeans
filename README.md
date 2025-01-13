@@ -1,4 +1,4 @@
-# 🐱‍👤 Jenna Han
+# Jenna Han
 
 `Major: Interactive Arts and Technology`
 <br>
